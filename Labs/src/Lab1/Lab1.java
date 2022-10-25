@@ -29,7 +29,6 @@ public class Lab1
 		System.out.println("javaFlex = " + javaFlex);
 		System.out.println("pie = " + pie);
 		System.out.println("doubleYum = " + doubleYum);
-		
 	}
 }
 
